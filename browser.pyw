@@ -37,7 +37,7 @@ class MainWindow(QMainWindow):
         navbar.addWidget(self.url_bar)
 
         search_btn = QAction('Search', self)
-        home_btn.triggered.connect(self.navigate_to_url)
+        search_btn.triggered.connect(self.navigate_to_url)
         navbar.addAction(search_btn)
 
         self.browser.urlChanged.connect(self.update_url)
