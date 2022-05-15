@@ -1,6 +1,6 @@
 # Python Lightweight Browser
-This browser is very light and don't take much system resources. <br/>
-If your PC have less than 2 GB RAM then your PC might not be able to handle the heavy browsers like chrome and mozilla. <br/>
+This browser is very light and doesn't take many system resources. <br/> 
+If your PC has less than 2 GB RAM then your PC might not be able to handle the heavy browsers like chrome and Mozilla, <br/>
 You can try my browser instead. <br/>
 
 ### **To use this browser**
